@@ -1764,3 +1764,23 @@ p .text-price {
             padding: 20px;
             border: 1px solid #dee2e6;
         }
+.is-divider {
+    background-color: rgba(0, 0, 0, .1);
+    display: block;
+    height: 3px;
+    margin: 1em 0;
+    max-width: 30px;
+    width: 100%;
+}
+
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 0.07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
